@@ -1,4 +1,4 @@
-import { Component } from 'react/cjs/react.production.min';
+import { Component,  } from 'react/cjs/react.production.min';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
